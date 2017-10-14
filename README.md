@@ -20,6 +20,11 @@
     ?>
     
 <h2>Parameters</h2>
+<h3>Main Function</h3>
+
+    $FileCache = new \Yormaz\FileCache($param1);
+    $param1 = Cache dir
+    
 <h3>Start Function</h3>
 
     Start($param1,$param2)
